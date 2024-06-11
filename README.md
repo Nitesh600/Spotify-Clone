@@ -1,1 +1,1 @@
-this is basic spotify clone using core css and html
+this is basic spotify clone using vanilla css and html
